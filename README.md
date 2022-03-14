@@ -16,5 +16,5 @@
 # 5.mxl_traveler_trails_node.json
 基于爬虫文件所提取的游客轨迹路口序列，该序列是在第四步文件的基础上手动提取而来。
 
-# 6.route.geojson
+# 6.mxl_route.geojson
 明孝陵景区的路geojson数据
